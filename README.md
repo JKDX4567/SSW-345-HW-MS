@@ -3,3 +3,11 @@
 -Picture is a little weird but it was verified in person
 -Spent about an hour on task two because I forgot how to undo stuff about halfway through
 -First task took a bit but eventually I got it down with some help.
+
+For the decorator pattern homework: look at the following files:
+PepperoniDecorator.java
+MushroomDecorator.java
+MargheritaPizza.java
+ToppingDecorator.java
+Pizza.java
+MainClass.java
