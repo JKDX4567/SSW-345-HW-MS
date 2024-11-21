@@ -11,3 +11,4 @@ MargheritaPizza.java
 ToppingDecorator.java
 Pizza.java
 MainClass.java
+DecoratorHWProof.eps
